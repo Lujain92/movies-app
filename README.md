@@ -38,7 +38,7 @@ This project is a Movie App that allows users to browse and filter movies based 
 2. Navigate to the project directory:
 
    ```bash
-   cd movie-app
+   cd movies-app
    ```
 
 3. Install the project dependencies:
